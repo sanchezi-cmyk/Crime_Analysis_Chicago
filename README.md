@@ -1,9 +1,3 @@
-# Chicago Crime Dynamics: A Spatio-Temporal Analysis of Trends and Hotspots (2001–Present)
-
-## Group Members
-* **Drew Flinn**
-* **Iker Sanchez**
-
 ## Project Links
 * [Google Colab Worksheet](https://colab.research.google.com/drive/1cmOJK7s04Herf4NESWXpy-bdT0StSGvp?usp=sharing)
 
