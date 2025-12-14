@@ -51,4 +51,6 @@ This Visualization can be found [here](https://docs.google.com/document/d/1I3QQ0
 ---
 
 ## Conclusions
-*(Refer to your analysis to discuss the answers to the questions posed in the Introduction. Discuss any limitations found during the study and areas for further study.)*
+Based on the results of the visualization, crime hotspots in Chicago do not move locations over time. From 2001 through 2025, the highest-crime areas remain in the same areas of the city, with no evidence of movement or the creation of new high-crime zones. The only changes observed are fluctuations of crime levels within the already established zones.  
+	Beyond this spatial consistency, the temporal analysis reveals a significant overall decline in reported crime volumes from 2001 to 2025. Despite this positive long-term trajectory, specific challenges persist, particularly with the sustained high frequency of Theft and Battery incidents. On the other hand, Narcotics offenses have seen a steep reduction over the last 2 decades, potentially reflecting shifts in enforcement strategies or underlying activity. Ultimately, while the locations of crime in Chicago have remained static, the composition and volume of these incidents have evolved, underscoring the need for policy interventions that address these changing dynamics within the city’s established hotspots.
+
